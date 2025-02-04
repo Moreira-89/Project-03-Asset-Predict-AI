@@ -1,1 +1,1 @@
-# Project-03-Stock-Predict
+# Projeto StockPredict – Análise e Previsão de Ativos
