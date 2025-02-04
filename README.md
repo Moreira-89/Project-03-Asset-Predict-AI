@@ -1,1 +1,1 @@
-# Projeto StockPredict – Análise e Previsão de Ativos
+# Projeto AssetPredict AI – Análise e Previsão de Ativos
